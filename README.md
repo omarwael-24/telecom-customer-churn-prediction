@@ -1,4 +1,4 @@
-# Telecom Customer Churn Pipeline: Data Engineering & Refinement
+# Telecom Customer Churn
 
 [![Data Pipeline](https://img.shields.io/badge/Data_Pipeline-Production--Ready-brightgreen)](https://github.com/omarwael-24/telecom-customer-churn-prediction)
 [![Data Stack](https://img.shields.io/badge/Data_Stack-Pandas_%7C_NumPy-blue)](https://github.com/omarwael-24/telecom-customer-churn-prediction)
