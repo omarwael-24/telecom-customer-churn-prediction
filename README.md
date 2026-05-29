@@ -14,8 +14,7 @@ This repository contains the core data engineering and feature refinement pipeli
 To ensure production stability, the raw input data is processed through a modular, decoupled pipeline. Below is the technical architecture mapping the lifecycle of telemetry records from ingestion to refined feature states:
 
 ### Pipeline Architecture
-<img width="1198" height="520" alt="image" src="https://github.com/user-attachments/assets/4020daaf-5d59-4d78-a5e2-fe99db166be9" />
-
+<img width="1080" height="110" alt="image" src="https://github.com/user-attachments/assets/6a0244df-e806-4e83-88f2-ca59777ae98c" />
 
 ### Architectural Core Pillars:
 1. **Data Ingestion & Structural Formatting:** Schema stabilization, row filtering, and administrative feature pruning.
